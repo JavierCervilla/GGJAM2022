@@ -56,7 +56,13 @@
             "children" : [
                 5
             ],
-            "name" : "RootNode (gltf orientation matrix)"
+            "name" : "RootNode (gltf orientation matrix)",
+            "rotation" : [
+                -0.6939202547073364,
+                -0.026134753599762917,
+                -0.1333857923746109,
+                0.7071068286895752
+            ]
         }
     ],
     "materials" : [
